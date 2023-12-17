@@ -1,6 +1,6 @@
 name: laravel_flutter_pusher
 description: Pusher client that supports laravel echo in flutter projects. Supports Null satefy
-version: 0.0.4
+version: 0.0.5
 homepage: 'https://github.com/olubunmitosin'
 
 environment:
